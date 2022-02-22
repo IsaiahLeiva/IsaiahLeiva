@@ -1,16 +1,20 @@
-### Hi there 👋
+Hello!
 
-<!--
-**IsaiahLeiva/IsaiahLeiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Isaiah Leiva. I'm originally from Portland, Oregon (Go Blazers!) and I have been living in Boise, Idaho since eary 2019. 
 
-Here are some ideas to get you started:
+I have a bachelor's in IT Management from Western Governor's University and am working on getting my certificate in full stack development from Boise Codeworks. I have been in the tech industry for over 6 years and love being around computers. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to reach me:
+
+email: isaiah.leiva@gmail.com
+phone: 503-740-8951
+
+
+About me:
+(Portland Trailblazers Fan)
+(Fluent in Spanish)
+(Loves to travel)
+(Futurama fan)
+(Loves the Half-Life Video Game franchise)
+
+
